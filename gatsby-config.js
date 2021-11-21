@@ -27,7 +27,7 @@ module.exports = {
 			options: {
 				name: `Gustavo Freitas - Portfólio`,
 				short_name: `Gustavo Freitas`,
-				description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+				description: `Site feito em Gatsby, um framework de geração de paginas estáticas baseado em React`,
 				start_url: `/`,
 				background_color: `#141821`,
 				// This will impact how browsers show your PWA/website
